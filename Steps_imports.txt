@@ -1,0 +1,8 @@
+1. Install Python
+2. After installing python , download open cv using command:
+
+pip install opencv-python
+
+3.download the required image into same folder
+4.In the last line of "main.py" enter your image url
+5.save and run in cmd
